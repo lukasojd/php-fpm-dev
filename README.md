@@ -1,2 +1,3 @@
 # php-fpm-dev
-php-fpm-dev docker container
+
+Example php-fpm container with xdebug
